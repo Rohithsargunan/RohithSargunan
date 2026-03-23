@@ -80,12 +80,6 @@ Not a wrapper. Built ground up for enterprise scale.
 
 <br/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=langchain,pytorch&theme=dark"/>
-</div>
-
-<br/>
-
 ```yaml
 llm_providers:
   - OpenAI GPT-4o
