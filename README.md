@@ -2,17 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Rohith%20Sargunan&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=AI%20Engineer%20%E2%80%A2%20IFS%20Softeon&descSize=18&descAlignY=78&descColor=c3b8f0&animation=fadeIn"/>
 
-<a href="https://rohithsargunan.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/rohith-sargunan-301b1b23a/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Rohithsargunan&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
+<a href="https://rohithsargunan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/rohith-sargunan-301b1b23a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Rohithsargunan&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C3B8F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+production+AI+systems+%F0%9F%9A%80;Not+just+using+frameworks+%E2%80%94+building+them+%F0%9F%94%A7;Agents+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Custom+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C3B8F0&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Building+production+AI+systems+%F0%9F%9A%80;Not+just+using+frameworks+%E2%80%94+building+them+%F0%9F%94%A7;Agents+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Custom+Architecture+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
