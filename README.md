@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Rohith%20Sargunan&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=AI%20Engineer%20%E2%80%A2%20IFS%20Softeon&descSize=18&descAlignY=78&descColor=c3b8f0&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header&text=Rohith%20Sargunan&fontSize=42&fontColor=fff&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20IFS%20Softeon&descSize=18&descAlignY=75&descColor=c3b8f0&animation=fadeIn"/>
 
 <a href="https://rohithsargunan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/rohith-sargunan-301b1b23a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Rohithsargunan&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 
@@ -212,4 +212,4 @@ Actively contributing to the LLM ecosystem — because the best way to stay shar
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=Open%20to%20interesting%20AI%20engineering%20roles%20%26%20collaborations&fontSize=14&fontColor=c3b8f0&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=80&section=footer&text=Open%20to%20interesting%20AI%20engineering%20roles%20%26%20collaborations&fontSize=14&fontColor=c3b8f0&fontAlignY=55"/>
