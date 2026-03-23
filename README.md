@@ -74,6 +74,18 @@ Not a wrapper. Built ground up for enterprise scale.
 
 ### Stack
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,aws&theme=dark"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=langchain,pytorch&theme=dark"/>
+</div>
+
+<br/>
+
 ```yaml
 llm_providers:
   - OpenAI GPT-4o
@@ -100,16 +112,21 @@ backend:
 infra:
   - Docker
   - Git
-
-aws:
-  - EC2, S3, Lambda
-  - ECS / EKS
-  - DynamoDB
-  - OpenSearch
-  - Bedrock
-  - Step Functions
-  - CloudWatch
 ```
+
+<br/>
+
+**AWS**
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=awsstepfunctions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 <br/>
 
