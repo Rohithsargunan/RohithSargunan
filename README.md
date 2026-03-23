@@ -42,16 +42,37 @@ End-to-end LLM-driven hiring pipeline — from JD parsing to candidate scoring t
 
 ---
 
+## Cortex — Custom AI Framework *(proprietary)*
+
+> Most engineers use frameworks. I've built one.
+
+**Cortex** is a production AI framework I co-designed and built at IFS Softeon from scratch — not a wrapper around existing tools, but a custom-engineered system built for enterprise reliability and scale.
+
+| Component | What I built |
+|---|---|
+| **Agent loop** | Custom orchestration engine with state management and failure recovery |
+| **Retrieval pipeline** | End-to-end RAG pipeline with custom chunking, indexing, and re-ranking |
+| **Inference layer** | Provider-agnostic LLM interface with fallback, retry, and latency controls |
+| **Tool/plugin system** | Extensible tool registry — agents discover and invoke tools dynamically |
+| **Memory management** | Persistent + ephemeral memory layer across multi-turn agent sessions |
+
+*Private — work IP. Happy to discuss architecture and design decisions in detail.*
+
+---
+
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,aws,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,aws,git" />
 </p>
 
-![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Anthropic%20%7C%20Ollama-black?style=flat-square)
-![Agents](https://img.shields.io/badge/Agents-Strands%20%7C%20LangChain%20%7C%20DSPy-blue?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Qdrant%20%7C%20FAISS%20%7C%20ChromaDB-orange?style=flat-square)
-![Infra](https://img.shields.io/badge/Infra-AWS%20%7C%20Docker%20%7C%20FastAPI-232F3E?style=flat-square)
+| Layer | Tools |
+|---|---|
+| **LLM Providers** | OpenAI GPT-4o · Anthropic Claude · Ollama (local) |
+| **Agent Frameworks** | Cortex (custom-built) · Strands Agents · LangChain · LangGraph |
+| **RAG & Vector** | OpenSearch · ChromaDB · semantic re-ranking |
+| **Backend** | FastAPI · PostgreSQL · REST · async Python |
+| **Infra & Deploy** | AWS (EC2, S3, Lambda) · Docker · Git |
 
 ---
 
