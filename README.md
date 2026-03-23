@@ -1,5 +1,13 @@
 <div align="center">
 
+`print("hello, world") — still the best line of code ever written.`
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ```
 ██████╗  ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
 ██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║
@@ -14,10 +22,6 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=vercel)](https://rohithsargunan.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-sargunan-301b1b23a/)
 ![Views](https://komarev.com/ghpvc/?username=Rohithsargunan&style=flat-square&color=grey)
-
-<br/>
-
-`print("hello, world") — still the best line of code ever written.`
 
 </div>
 
