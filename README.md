@@ -71,17 +71,6 @@ Not a wrapper. Built ground up for enterprise scale.
 
 <br/>
 
-### Open source
-
-```bash
-$ git log --oneline --author="Rohithsargunan"
-
-contributing to strands-agents/sdk-python   # agent orchestration my domain
-contributing to mem0ai/mem0                 # memory arch built this in Cortex
-contributing to stanfordnlp/dspy            # prompt degradation hit this in prod
-```
-
-<br/>
 
 ### Stack
 
