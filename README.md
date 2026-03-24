@@ -34,7 +34,6 @@ class RohithSargunan:
     focus      = ["LLM Systems", "AI Agents", "RAG", "Custom AI Architecture"]
     built      = "Cortex proprietary AI framework (not a wrapper)"
     aws        = ["Bedrock", "OpenSearch", "ECS", "Step Functions", "DynamoDB", "Lambda"]
-    opensource = ["Strands Agents", "Mem0", "DSPy"]
     philosophy = "Build systems, not demos."
 ```
 
